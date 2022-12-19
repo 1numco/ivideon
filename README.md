@@ -1,6 +1,6 @@
 # ivideon
 
-How to run client/server:
+How to run client/server (for building you need installed boost):
 1) cd <path_to_server/client>
 2) mkdir build
 3) cd build
